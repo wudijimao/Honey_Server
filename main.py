@@ -7,7 +7,7 @@ app.config.from_object(DevConfig)
 
 @app.route('/')
 def home():
-    return "Hello World"
+    return "Ximiao ❤Love❤ 静静"
 
 @app.route('/register')
 def register():
