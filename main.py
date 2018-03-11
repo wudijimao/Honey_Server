@@ -9,7 +9,7 @@ app.config.from_object(DevConfig)
 def home():
     return "Hello World"
 
-@app.route('register')
+@app.route('/register')
 def register():
     return "Hello World"
 
