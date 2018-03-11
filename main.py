@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from base.config import DevConfig
 from base.app import app
 from base.basemodel import db
